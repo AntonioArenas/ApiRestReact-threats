@@ -1,0 +1,4 @@
+Comando Inicia el microservicio
+Fijate estar parado antes de la carpeta threats
+node threats/threats.js 8082
+localhost:8082/assignment
